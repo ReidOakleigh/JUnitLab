@@ -10,9 +10,6 @@ public class Clothing {
     private String size;
     private String color;
 
-    /**
-     * Creates an empty Clothing object
-     */
     public Clothing() {}
 
     /**
